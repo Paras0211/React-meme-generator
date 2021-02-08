@@ -59,10 +59,12 @@ header > p{
 }
 
 .meme > h2 {
+    
     position: absolute;
-    width: 80%;
+    width: 40%;
+    overflow-wrap: break-word;
     text-align: center;
-    left: 40%;
+    left: 49%;
     transform: translateX(-50%);
     margin: 15px 0;
     padding: 0 5px;
@@ -106,7 +108,8 @@ header > p{
     }
 
     .meme > img{
-        margin : 0;
+        margin-left: 100px;
+        left: 50%;
         width: 60%;
     }
 
@@ -115,9 +118,15 @@ header > p{
     }
      
     .meme h2{
-        text-align: start;
+        position: absolute;
+        overflow: hidden;
+        text-align: center;
+        overflow-wrap: break-word;
+        width: 60%;
+        left :52%
     }
 }
+
 
 
 
