@@ -6,7 +6,7 @@ class MemeGenerator extends Component{
         this.state ={
             topText : "",
             bottomText : "",
-            randomImg : "http://i.imgflip.com/1bij.jpg",
+            randomImg : "",
             allMemeImg : []
         }
         
