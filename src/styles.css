@@ -104,5 +104,21 @@ header > p{
     header > p{
         margin: 0;
     }
+
+    .meme > img{
+        margin : 0;
+        width: 60%;
+    }
+
+    .meme-form > button{
+        font-size : 15px;
+    }
+     
+    .meme h2{
+        text-align: start;
+    }
 }
+
+
+
 
