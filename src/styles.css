@@ -39,6 +39,8 @@ header > p{
 
 .meme-form > button{
     border: none;
+    width: 50%;
+    height: 40px;
     font-family: sans-serif;
     font-size: 25px;
     color: whitesmoke;
